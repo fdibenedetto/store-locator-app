@@ -1,0 +1,4 @@
+1. Esegui `npm install`
+2. Aggiungi il file `.env` con la tua API Key Google Maps:
+REACT_APP_GOOGLE_MAPS_API_KEY=la-tua-chiave
+3. Avvia l'app con `npm start`
